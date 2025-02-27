@@ -84,11 +84,11 @@ section>span:first-of-type {
 }
 
 .contact-row>p:first-of-type {
-  width: 100px;
+  width: 200px;
   font-weight: 600;
 }
 
-.contact-row>a {
+.contact-row a {
   color: oklch(0.623 0.214 259.815)
 }
 
